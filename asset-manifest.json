@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/achay007/static/css/main.073c9b0a.css",
-    "main.js": "/achay007/static/js/main.b9978241.js",
-    "static/js/787.0bca8be2.chunk.js": "/achay007/static/js/787.0bca8be2.chunk.js",
-    "static/media/logo.svg": "/achay007/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/achay007/index.html",
-    "main.073c9b0a.css.map": "/achay007/static/css/main.073c9b0a.css.map",
-    "main.b9978241.js.map": "/achay007/static/js/main.b9978241.js.map",
-    "787.0bca8be2.chunk.js.map": "/achay007/static/js/787.0bca8be2.chunk.js.map"
+    "main.css": "/achay007/Singam/static/css/main.073c9b0a.css",
+    "main.js": "/achay007/Singam/static/js/main.e20fa52c.js",
+    "static/js/787.0bca8be2.chunk.js": "/achay007/Singam/static/js/787.0bca8be2.chunk.js",
+    "static/media/logo.svg": "/achay007/Singam/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/achay007/Singam/index.html",
+    "main.073c9b0a.css.map": "/achay007/Singam/static/css/main.073c9b0a.css.map",
+    "main.e20fa52c.js.map": "/achay007/Singam/static/js/main.e20fa52c.js.map",
+    "787.0bca8be2.chunk.js.map": "/achay007/Singam/static/js/787.0bca8be2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b9978241.js"
+    "static/js/main.e20fa52c.js"
   ]
 }
