@@ -22,7 +22,7 @@ export default function SignIn() {
                     sx={{backgroundImage:'URL(https://source.unsplash.com/random?wallpapers)'}} />
                 <Grid
                     item xs={12} sm={8} md={5}
-                    component={Paper} elevation={6} square={true} bgcolor='whitesmoke'
+                    component={Paper} elevation={6} square={true} bgcolor='white'
                 >
                     <Box
                         sx={{
